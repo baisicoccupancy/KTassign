@@ -1,0 +1,38 @@
+runs:
+  using: 'node20'
+  main: 'main.js'
+
+<!--
+
+Name: Kareem Tunstall
+
+Course: IT150-44 Web Design
+
+Professor: Taoufik Ennoure
+
+Date: 01/29/2024
+
+Assignment: Web Images Lab
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Web Images Lab</title>
+</head>
+<body>
+
+    <!-- PNG Image -->
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180308%2Fsuw%2Fkisspng-england-manor-house-mansion-english-country-house-southwest-europe-hotel-5aa0f8ab9f1c74.8594471815204988596517.jpg&tbnid=mXhMEKyAG4ZjbM&vet=12ahUKEwijjPLLpIOEAxXvNGIAHcO7AFAQMygAegQIARBZ..i&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-england-manor-house-mansion-english-country-house-440807%2F&docid=OnZ_MDYuqUzbJM&w=900&h=620&q=png%20images%20mansions%20free&ved=2ahUKEwijjPLLpIOEAxXvNGIAHcO7AFAQMygAegQIARBZ" alt="PNG Image" title="PNG Image Description">
+
+    <!-- JPG Image (Optimized for the web) -->
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F506903162%2Fphoto%2Fluxurious-villa-with-pool.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DEk2P0DQ9nHQero4m9mdDyCVMVq3TLnXigxNPcZbgX2E%3D&tbnid=mdSti1DPMOpVeM&vet=12ahUKEwiU5rLdpIOEAxU_E2IAHcqICcgQMygIegQIARBp..i&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fmodern-mansion&docid=DgcWERrzcbxyWM&w=612&h=459&q=jpg%20images%20mansions%20free&ved=2ahUKEwiU5rLdpIOEAxU_E2IAHcqICcgQMygIegQIARBp" alt="JPG Image" title="JPG Image Description">
+
+    <!-- GIF Image -->
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg1.picmix.com%2Foutput%2Fpic%2Fnormal%2F1%2F5%2F4%2F1%2F6871451_ec795.gif&tbnid=5OPVU-iO6zczCM&vet=12ahUKEwjB_K7rpIOEAxXHFFkFHZajAc0QMygIegQIARBo..i&imgrefurl=https%3A%2F%2Fen.picmix.com%2Fpic%2FOld-Winter-House-6871451&docid=3g5DCoP1xzfYxM&w=500&h=500&q=gif%20images%20mansions%20free&ved=2ahUKEwjB_K7rpIOEAxXHFFkFHZajAc0QMygIegQIARBo" alt="GIF Image" title="GIF Image Description">
+
+</body>
+</html>
